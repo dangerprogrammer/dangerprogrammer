@@ -1,62 +1,47 @@
 <h1 align="center">Patrick</h1>
 
 <p align="center">
-  Desenvolvedor focado em transformar ideias em produtos web funcionais, com interfaces bem cuidadas e backend que aguenta o tranco.
+  <strong>Desenvolvedor Full Stack</strong><br/>
+  Transformando ideias em produtos web com visual caprichado, lógica sólida e foco em uso real.
 </p>
 
 <p align="center">
-  <a href="https://github.com/dangerprogrammer">GitHub</a>
-  |
   <a href="https://github.com/dangerprogrammer?tab=repositories">Projetos</a>
+  |
+  <a href="https://github.com/dangerprogrammer/serverbox">ServerBox</a>
+  |
+  <a href="https://github.com/dangerprogrammer/my-portfolio-remake">Portfólio</a>
 </p>
 
-## Sobre mim
-
-- Gosto de construir aplicações completas, do front ao back.
-- Trabalho bastante com JavaScript e TypeScript, principalmente em projetos web.
-- Curto transformar necessidades reais em sistemas úteis, dashboards administrativos e plataformas com fluxo de negócio claro.
-- Estou sempre experimentando, refatorando e aprendendo com projetos próprios.
-
-## O que você vai encontrar por aqui
-
-- Aplicações com `Next.js`, `React`, `Node.js` e `NestJS`
-- Interfaces focadas em experiencia e clareza
-- APIs, dashboards e sistemas administrativos
-- Projetos pessoais, experimentos e produtos feitos para uso real
-
-## Stack mais frequente
-
-<p>
+<p align="center">
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
   <img alt="React" src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=5FA04E"/>
   <img alt="NestJS" src="https://img.shields.io/badge/NestJS-111111?style=for-the-badge&logo=nestjs&logoColor=E0234E"/>
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
 </p>
 
-## Projetos em destaque
+## Sobre
 
-### [ServerBox](https://github.com/dangerprogrammer/serverbox)
-Sistema administrativo para venda recorrente de bolinhas de tênis para condomínios, com dashboard, planos, cobranças PIX e fluxo operacional.
+Desenvolvo aplicações web de ponta a ponta, com foco em interfaces claras, arquitetura organizada e soluções que resolvem problemas de verdade.
 
-### [farmstead-rental](https://github.com/dangerprogrammer/farmstead-rental)
-Projeto voltado para ajudar na gestão de aluguel de chácara com foco em uso real e organização do processo.
+## Em destaque
 
-### [my-portfolio-remake](https://github.com/dangerprogrammer/my-portfolio-remake)
-Refação do meu portfólio pessoal, explorando apresentação visual e identidade própria na web.
+- [ServerBox](https://github.com/dangerprogrammer/serverbox): sistema administrativo com dashboard, planos e cobranças PIX.
+- [farmstead-rental](https://github.com/dangerprogrammer/farmstead-rental): projeto para gestão de aluguel de chácara com foco em operação real.
+- [my-portfolio-remake](https://github.com/dangerprogrammer/my-portfolio-remake): nova versão do meu portfólio, explorando identidade visual e apresentação.
 
-## Atualmente focado em
+## Foco atual
 
 - Evoluir como desenvolvedor full stack
 - Criar produtos web mais polidos e profissionais
-- Melhorar arquitetura, organização de código e experiência de uso
+- Melhorar experiência, arquitetura e organização de código
 
 ## Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./github-user-contribution-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="./github-user-contribution-light.svg"/>
-  <img alt="github contribution grid snake animation" src="./github-user-contribution-dark.svg"/>
+  <img alt="GitHub contribution snake" src="./github-user-contribution-dark.svg"/>
 </picture>
