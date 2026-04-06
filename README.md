@@ -12,14 +12,14 @@
 
 ## Sobre mim
 
-- Gosto de construir aplicacoes completas, do front ao back.
+- Gosto de construir aplicações completas, do front ao back.
 - Trabalho bastante com JavaScript e TypeScript, principalmente em projetos web.
-- Curto transformar necessidades reais em sistemas uteis, dashboards administrativos e plataformas com fluxo de negocio claro.
-- Estou sempre experimentando, refatorando e aprendendo com projetos proprios.
+- Curto transformar necessidades reais em sistemas úteis, dashboards administrativos e plataformas com fluxo de negócio claro.
+- Estou sempre experimentando, refatorando e aprendendo com projetos próprios.
 
-## O que voce vai encontrar por aqui
+## O que você vai encontrar por aqui
 
-- Aplicacoes com `Next.js`, `React`, `Node.js` e `NestJS`
+- Aplicações com `Next.js`, `React`, `Node.js` e `NestJS`
 - Interfaces focadas em experiencia e clareza
 - APIs, dashboards e sistemas administrativos
 - Projetos pessoais, experimentos e produtos feitos para uso real
@@ -39,19 +39,19 @@
 ## Projetos em destaque
 
 ### [ServerBox](https://github.com/dangerprogrammer/serverbox)
-Sistema administrativo para venda recorrente de bolinhas de tenis para condominios, com dashboard, planos, cobrancas PIX e fluxo operacional.
+Sistema administrativo para venda recorrente de bolinhas de tênis para condomínios, com dashboard, planos, cobranças PIX e fluxo operacional.
 
 ### [farmstead-rental](https://github.com/dangerprogrammer/farmstead-rental)
-Projeto voltado para ajudar na gestao de aluguel de chacara com foco em uso real e organizacao do processo.
+Projeto voltado para ajudar na gestão de aluguel de chácara com foco em uso real e organização do processo.
 
 ### [my-portfolio-remake](https://github.com/dangerprogrammer/my-portfolio-remake)
-Refacao do meu portfolio pessoal, explorando apresentacao visual e identidade propria na web.
+Refação do meu portfólio pessoal, explorando apresentação visual e identidade própria na web.
 
 ## Atualmente focado em
 
 - Evoluir como desenvolvedor full stack
 - Criar produtos web mais polidos e profissionais
-- Melhorar arquitetura, organizacao de codigo e experiencia de uso
+- Melhorar arquitetura, organização de código e experiência de uso
 
 ## GitHub Stats
 
